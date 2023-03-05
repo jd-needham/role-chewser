@@ -1,0 +1,16 @@
+{
+  "name": "role-chewser",
+  "version": "1.0.0",
+  "description": "valorant role chooser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jordan Needham",
+  "license": "ISC",
+  "dependencies": {
+    "bufferutil": "^4.0.7",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  }
+}
